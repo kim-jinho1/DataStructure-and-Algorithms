@@ -8,10 +8,12 @@
 
 ## 📅 Learning Status
 
-### 1. Data Structures
-추가 예정...
+### Data Structures
+1. vector
 
-### 2. Algorithms
+나머지 추가 예정...
+
+### Algorithms
 추가 예정...
 
 ---
